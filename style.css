@@ -116,3 +116,6 @@ main .quote {
   text-align: center;
   margin-top: 2em;
 }
+
+p:hover {background-color: white;}
+
